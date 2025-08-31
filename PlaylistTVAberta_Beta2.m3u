@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ISTV" tvg-logo="https://istv.com.br/static/media/Logo_ISTV_02.1fe70b478a015b68fcd8.png" group-title="Retro",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1293872035.m3u8
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://th.bing.com/th/id/R.1b13e435a845613ffd58a8ba9668fe02?rik=8Ts4iBGnxy1n4Q&amp;riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f8%2f82%2fCultura_logo_2013.svg%2f250px-Cultura_logo_2013.svg.png&amp;ehk=lypQY%2bXkt2c1fCWXLfB6PpYWygNT1MuoK0C9DcAblkY%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" group-title="Educativo",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1282431669.m3u8
+#EXTINF:-1 tvg-id="Rede Familia" tvg-logo="https://www.pngkit.com/png/full/122-1221532_familia-png.png" group-title="TV Aberta",Rede Familia
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w888236287.m3u8
+#EXTINF:-1 tvg-id="Rede NGT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="Retro",Rede NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RedeTV ES" tvg-logo="https://th.bing.com/th/id/R.b1b4d9d5e0b52e958d543035d62926e1?rik=ALWRiZYJEcuUHA&amp;riu=http%3a%2f%2fwww.imprensaemidia.com.br%2fwp-content%2fuploads%2f2018%2f02%2fRedeTV_01.jpg&amp;ehk=0NO4fl3s7eJqeQfgmH8swHPxiGaFE6pDu4fgqgh1jM4%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" group-title="TV Aberta",RedeTV ES
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-logo="https://iaovivo.com/wp-content/uploads/2022/08/Rede-Brasil-de-Televisao.png" group-title="Retro",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1973709112.m3u8
+#EXTINF:-1 tvg-id="Times Brasil" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.QyxLy2Tdea_EDAvRMjpgvwHaHa?rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3" group-title="Noticias",Times Brasil
+https://video02.soultv.com.br/TimesBrasil/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-logo="https://tse1.mm.bing.net/th/id/OIP._wQet8dH9mjAWH5RoBGR2gAAAA?rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3" group-title="Noticias",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1793405759.m3u8
+#EXTINF:-1 tvg-id="Rede Meio+" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.SFj_E5dfwyjHl2DwGdpCbQHaHa?rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3" group-title="Retro",Rede Meio+
+https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Canal UOL" tvg-logo="https://th.bing.com/th/id/R.fce80e5ced09b6d05a9a898986f08d51?rik=spTachMpOp3qoA&amp;pid=ImgRaw&amp;r=0" group-title="Noticias",Canal UOL
+https://video01.soultv.com.br/uoltv/uoltv/chunklist_w1261486115.m3u8
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-news-png.png" group-title="Noticias",Record News
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="NSports" tvg-logo="https://sportsjob.com.br/wp-content/uploads/wp-jobhunt-users/nsports-vagas-de-esportes1.png" group-title="Esportes",NSports
+https://video01.soultv.com.br/nsports/nsports/chunklist_w1194140256.m3u8
+#EXTINF:-1 tvg-id="Canal Kanade" tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png" group-title="Entreterimento",Canal Kanade
+https://streams.kanade.cl/webtv/kanadebr-sd/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="TV Petropolis" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.HjqubZiOnIoaXKx75iEq8gHaHa?rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3" group-title="TV Aberta",TV Petropolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/chunklist_w472013183.m3u8
+#EXTINF:-1 tvg-id="TV Carioca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="TV Aberta",TV Carioca
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w297795014.m3u8
