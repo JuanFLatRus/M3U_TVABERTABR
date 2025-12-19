@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV Cruzeiro do Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhZFGfvZ9DYMmBKfZfuaM_CcpElf9szbrzOBrmJPd2g&amp;s" group-title="TV",TV Cruzeiro do Brasil
+https://s1.tvr.ovh/video69413/video69413/chunklist_w704248118.m3u8
+#EXTINF:-1 tvg-id="Rádio Cruzeiro do Brasil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhZFGfvZ9DYMmBKfZfuaM_CcpElf9szbrzOBrmJPd2g&amp;s" group-title="Rádio",Rádio Cruzeiro do Brasil
+https://hts03.brascast.com:7702/live
